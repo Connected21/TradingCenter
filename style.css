@@ -43,7 +43,7 @@ table td:nth-child(5){
 .faq-section {
     background: #fdfdfd;
     min-height: 100vh;
-    padding: 10vh 0 0;
+    padding: 10vh;
 }
 .faq-title h2 {
   margin-bottom: 45px;
